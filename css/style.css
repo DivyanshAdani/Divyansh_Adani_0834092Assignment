@@ -1,0 +1,96 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #c7f7ff;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+}
+
+.accordion {
+    background-color: #fff;
+    margin: 20px auto;
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.accordion h2 {
+    cursor: pointer;
+    font-size: 18px;
+    color: #007BFF;
+}
+
+.accordion-content {
+    display: none;
+    margin-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.tabs {
+    background-color: #fff;
+    margin: 20px auto;
+    width: 80%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tab-nav {
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+.tab-nav li {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #007BFF;
+}
+
+.tab-nav li.active {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+.tab-content .tab-panel {
+    display: none;
+    padding: 10px;
+}
+
+.tab-content .tab-panel img {
+    max-width: 100%;
+    height: auto;
+}
+footer{
+    background-color: aqua;
+    width: 80%;
+    margin: 20px auto;
+}
+footer h2{
+    text-align: left;
+    margin-left: 10px;
+}
+footer ul li {
+    text-align: left;
+}
+footer a:hover{
+color: rgb(36, 32, 255);
+}
