@@ -1,0 +1,18 @@
+$(function () {
+    $('#photo-viewer').customPhotoViewer();
+
+    $('#photo-viewer').customPhotoViewer().show().on('click', '.photo-box', function (e) {
+        var $content = $(this).clone().find('img').css({
+            marginLeft: 0,
+            marginTop: 0,
+            width: '100%',
+            height: 'auto',
+            border: '100px solid black'
+        });
+        //modal code goes here
+    });
+});
+// $(document).ready(function () {
+//     $('#photo-viewer').customPhotoViewer();
+//   });
+  
