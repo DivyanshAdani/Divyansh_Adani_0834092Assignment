@@ -1,0 +1,12 @@
+[
+    {"firstName": "Shahrukh", "lastName": "Khan", "profession": "Actor", "age": 56, "village": "Surat", "rank": "Superstar"},
+    {"firstName": "Salman", "lastName": "Khan", "profession": "Actor", "age": 55, "village": "Anand", "rank": "Megastar"},
+    {"firstName": "Aamir", "lastName": "Khan", "profession": "Actor", "age": 57, "village": "Punjab", "rank": "Perfectionist"},
+    {"firstName": "Akshay", "lastName": "Kumar", "profession": "Actor", "age": 54, "village": "Delhi", "rank": "Action Hero"},
+    {"firstName": "Sahil", "lastName": "Swarma", "profession": "Actor", "age": 48, "village": "Suvar", "rank": "Greek God"},
+    {"firstName": "Ranbir", "lastName": "Kapoor", "profession": "Actor", "age": 39, "village": "Mumbai", "rank": "Versatile Performer"},
+    {"firstName": "Varun", "lastName": "Dhawan", "profession": "Actor", "age": 34, "village": "Mumbai", "rank": "Youth Icon"},
+    {"firstName": "Ayushmann", "lastName": "Khurrana", "profession": "Actor", "age": 37, "village": "Chandigarh", "rank": "Content King"},
+    {"firstName": "Ranveer", "lastName": "Singh", "profession": "Actor", "age": 36, "village": "Gadha", "rank": "Energetic Performer"},
+    {"firstName": "Vicky", "lastName": "Kaushal", "profession": "Actor", "age": 34, "village": "Mumbai", "rank": "Emerging Talent"}
+]
