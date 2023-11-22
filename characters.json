@@ -1,0 +1,12 @@
+[
+    {"firstName": "Shahrukh", "lastName": "Khan", "profession": "Actor", "age": 56, "village": "Surat", "rank": "Superstar", "date": "1966-11-02"},
+    {"firstName": "Salman", "lastName": "Khan", "profession": "Actor", "age": 55, "village": "Anand", "rank": "Megastar", "date": "1965-12-27"},
+    {"firstName": "Aamir", "lastName": "Khan", "profession": "Actor", "age": 57, "village": "Punjab", "rank": "Perfectionist", "date": "1965-03-14"},
+    {"firstName": "Akshay", "lastName": "Kumar", "profession": "Actor", "age": 54, "village": "Delhi", "rank": "Action Hero", "date": "1967-09-09"},
+    {"firstName": "Sahil", "lastName": "Swarma", "profession": "Actor", "age": 48, "village": "Suvar", "rank": "Greek God", "date": "1975-07-20"},
+    {"firstName": "Ranbir", "lastName": "Kapoor", "profession": "Actor", "age": 39, "village": "Mumbai", "rank": "Versatile Performer", "date": "1982-09-28"},
+    {"firstName": "Varun", "lastName": "Dhawan", "profession": "Actor", "age": 34, "village": "Mumbai", "rank": "Youth Icon", "date": "1987-04-24"},
+    {"firstName": "Ayushmann", "lastName": "Khurrana", "profession": "Actor", "age": 37, "village": "Chandigarh", "rank": "Content King", "date": "1984-09-14"},
+    {"firstName": "Ranveer", "lastName": "Singh", "profession": "Actor", "age": 36, "village": "Gadha", "rank": "Energetic Performer", "date": "1985-07-06"},
+    {"firstName": "Vicky", "lastName": "Kaushal", "profession": "Actor", "age": 34, "village": "Mumbai", "rank": "Emerging Talent", "date": "1988-05-16"}
+]
